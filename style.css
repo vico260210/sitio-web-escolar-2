@@ -1,0 +1,17 @@
+.img1{
+    height: 300;
+    width: 300;
+}
+.img2{
+    height: 300;
+    width: 300;
+}
+.img3{
+    height: 300;
+    width: 300;
+}
+.body{
+    font-size: 20;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: lime;
+}
